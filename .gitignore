@@ -1,0 +1,17 @@
+# Russian-language study notes (local only)
+docs/
+
+# Build output
+build/
+*.o
+*.dSYM/
+
+# Database files produced by the program and tests
+*.db
+*.db-journal
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+__pycache__/
